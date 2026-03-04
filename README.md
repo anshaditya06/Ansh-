@@ -115,7 +115,9 @@ A collection of small Python projects built during my first month of learning pr
 
 ## 🧠 About
 
-I'm currently 1 month into my programming journey. These projects cover everything from simple print statements to full terminal games with game loops, ASCII art, and score tracking. Each one taught me something new and helped build my confidence as a developer.
+I am an aspiring software developer with one month of hands-on Python experience. This repository documents my progression from foundational syntax to building fully functional terminal applications. Across these 13 projects, I have applied core programming concepts including data structures, control flow, modular design with functions, and user interaction — culminating in projects like Blackjack and Hangman that combine multiple concepts into complete, playable programs.
+
+I am actively expanding my skill set and committed to writing cleaner, more efficient code with each project I build.
 
 ---
 
